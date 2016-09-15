@@ -1,0 +1,37 @@
+Creative Commons 
+
+Si la regla por defecto del copyright es “todos los derechos reservados”, el significado expreso de una licencia de Creative Commons es que “algunos derechos están reservados.” Por ejemplo, la ley del copyright brinda al poseedor del copyright el derecho exclusivo de hacer “copias” de su trabajo. Una licencia de Creative Commons, podría, en efecto, anunciar que este derecho exclusivo fue otorgado al público.
+
+Las licencias Creative Commons garantizan cuatro libertades; atribución de la obra, no comercial, sin derivados y compartir igual.
+
+Generalmente es usada para trabajos gráficos, imagenes, fotografías, diseños, entre otros.
+
+Las combinaciones de éstas dan lugar a once tipos de licencia distintas, aunque las más habituales son las seis siguientes:
+
+  1- Reconocimiento: Use esta obra como desee, pero indique la autoría de la misma.
+  2- Reconocimiento-Compartir igual: Use la obra como desee, indicando la atribución de la misma y bajo el mismo tipo de licencia.
+  3- Reconocimiento-Sin derivados: Utilice la obra tal y como es, otorgando el reconocimiento al autor.
+  4- Reconocimiento-No comercial: Utilice la obra con propósitos no comerciales y otórgueme la atribución.
+  5- Reconocimiento-No comercial-Sin derivados: Utilice la obra tal y como es, con propósitos no comerciales y con atribución al autor.
+  6- Reconocimiento-No comercial-Compartir igual: Utilice la obra con propósitos no comerciales, bajo el mismo tipo de licencia y con atribución.
+
+Extracto:
+
+"
+LA OBRA (SEGÚN SE DEFINE MÁS ADELANTE) SE PROPORCIONA BAJO LOS TÉRMINOS DE ESTA LICENCIA PÚBLICA DE CREATIVE COMMONS ("CCPL" O "LICENCIA"). LA OBRA SE ENCUENTRA PROTEGIDA POR LA LEY ESPAÑOLA DE PROPIEDAD INTELECTUAL Y/O CUALESQUIERA OTRAS NORMAS RESULTEN DE APLICACIÓN. QUEDA PROHIBIDO CUALQUIER USO DE LA OBRA DIFERENTE A LO AUTORIZADO BAJO ESTA LICENCIA O LO DISPUESTO EN LAS LEYES DE PROPIEDAD INTELECTUAL.
+
+MEDIANTE EL EJERCICIO DE CUALQUIER DERECHO SOBRE LA OBRA, USTED ACEPTA Y CONSIENTE LAS LIMITACIONES Y OBLIGACIONES DE ESTA LICENCIA. EL LICENCIADOR LE CEDE LOS DERECHOS CONTENIDOS EN ESTA LICENCIA, SIEMPRE QUE USTED ACEPTE LOS PRESENTES TÉRMINOS Y CONDICIONES.
+
+1. Definiciones
+
+La "obra" es la creación literaria, artística o científica ofrecida bajo los términos de esta licencia.
+El "autor" es la persona o la entidad que creó la obra.
+Se considerará "obra conjunta" aquella susceptible de ser incluida en alguna de las siguientes categorías:
+"Obra en colaboración", entendiendo por tal aquella que sea resultado unitario de la colaboración de varios autores.
+"Obra colectiva", entendiendo por tal la creada por la iniciativa y bajo la coordinación de una persona natural o jurídica que la edite y divulgue bajo su nombre y que esté constituida por la reunión de aportaciones de diferentes autores cuya contribución personal se funde en una creación única y autónoma, para la cual haya sido concebida sin que sea posible atribuir separadamente a cualquiera de ellos un derecho sobre el conjunto de la obra realizada.
+"Obra compuesta e independiente", entendiendo por tal la obra nueva que incorpore una obra preexistente sin la colaboración del autor de esta última.
+Se considerarán "obras derivadas" aquellas que se encuentren basadas en una obra o en una obra y otras preexistentes, tales como: las traducciones y adaptaciones; las revisiones, actualizaciones y anotaciones; los compendios, resúmenes y extractos; los arreglos musicales y, en general, cualesquiera transformaciones de una obra literaria, artística o científica, salvo que la obra resultante tenga el carácter de obra conjunta en cuyo caso no será considerada como una obra derivada a los efectos de esta licencia. Para evitar la duda, si la obra consiste en una composición musical o grabación de sonidos, la sincronización temporal de la obra con una imagen en movimiento ("synching") será considerada como una obra derivada a los efectos de esta licencia.
+Tendrán la consideración de "obras audiovisuales" las creaciones expresadas mediante una serie de imágenes asociadas, con o sin sonorización incorporada, así como las composiciones musicales, que estén destinadas esencialmente a ser mostradas a través de aparatos de proyección o por cualquier otro medio de comunicación pública de la imagen y del sonido, con independencia de la naturaleza de los soportes materiales de dichas obras.
+El "licenciador" es la persona o la entidad que ofrece la obra bajo los términos de esta licencia y le cede los derechos de explotación de la misma conforme a lo dispuesto en ella.
+"
+
