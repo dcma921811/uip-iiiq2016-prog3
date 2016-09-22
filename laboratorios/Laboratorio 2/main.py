@@ -1,10 +1,10 @@
 
-euro = 1 * 0.8965
-yen = 1 * 101.5744
-libra = 1 * 0.7702
-pesos = 1 * 19.7843
+resultado = float (input("Cantidad en dolares: "))
 
-print("El valor de un dolar en diferentes monedas: ")
+euro = resultado * 0.8965
+yen = resultado * 101.5744
+libra = resultado * 0.7702
+pesos = resultado * 19.7843
 
 print("Euro " + str(euro))
 print("Yen " + str(yen))
